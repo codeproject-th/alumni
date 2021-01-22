@@ -1,0 +1,12 @@
+.form-control{
+	width: 100%;
+	padding: 8px;
+}
+
+.control-group{
+	margin-bottom: 10px;
+}
+
+.alert-error{
+	background-color: #fee7e4;
+}
